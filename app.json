@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.create-spotify-app"
+      "package": "com.myapp.myapp"
     },
     "web": {
       "bundler": "metro",
